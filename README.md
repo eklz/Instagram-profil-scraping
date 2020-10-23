@@ -1,1 +1,1 @@
-# Scrapping of any data on an instagram account
+# Scraping of any data on an instagram account
